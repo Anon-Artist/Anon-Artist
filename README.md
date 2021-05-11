@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on finding and fixing vulnerabilities especially in opensource packages.
 - 🐞 Current project: Developing R3C0Nizer a B-Tier framework for Bughunters.
 - ⚡ Fun fact: I learn things quickly and i forgot them quickly
-- 📰 I recently wrote: **[My successful journey with huntr](https://www.huntr.dev/blog/abhiram-v-my-successful-journey-with-huntr)**
+- 📰 I recently wrote: **[My successful journey with huntr](https://www.huntr.dev/blog/abhiram-v-my-journey-with-huntr)**
 
 ### 📫 Reach me:
 
