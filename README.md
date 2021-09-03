@@ -1,7 +1,7 @@
 ## Hi there, I'm Abhiram V aka Anon-Artist 👋
 ### I am an Information security enthusiast and a good opensource supporter
 
-- 🔭 I’m currently working in Resec System as a Security Analyst.
+- 🔭 I’m currently working in UST Global as an Information Security Analyst.
 - 🌱 I’m currently learning everything based on cybersecurity and ethical hacking.
 - 👯 I’m looking to collaborate on finding and fixing vulnerabilities especially in opensource packages.
 - 🐞 Current project: Developing R3C0Nizer a B-Tier framework for Bughunters.
